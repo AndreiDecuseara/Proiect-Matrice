@@ -23,5 +23,6 @@ Descriere cod:
    Variabila " viata " se decrementeaza in momentul in care punctele centrale controlate de ultrasonic, se ating cu inamicii. Buzzer-ul scoate si el un sunete in momentul in care se pierde o viata.
    Jocul se termina in momentul in care se ramane fara vieti.
 
-
+Videoclip matrice:
+https://www.youtube.com/watch?v=7nWSSowJuI4&feature=share&fbclid=IwAR2Ro2QKOH2Zw_HzprlV9xk2rwDCqzSehXK0m9okCrwq1O1RKq1QkykIU8M
 
